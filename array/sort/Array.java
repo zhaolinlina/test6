@@ -8,7 +8,7 @@ public class Array
  
 		String[] x = {"bravo","delta","alpha","echo","foxtrot","charlie"};
 
-		Array.sort(x);
+		Arrays.sort(x);
 
 		System.out.print("\n");
 	}
